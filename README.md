@@ -43,8 +43,7 @@
 - **Methodologies:** Agile/Scrum, CI/CD concepts
 
 ## 📂 Featured Projects
-
-### [Voting Management System](https://github.com/aireneapresto2/voting-management-system)
+### [Voting Management System - Admin](https://github.com/aireneapresto2/votingsystemadmin)
 **CodeIgniter, MySQL, JavaScript**
 - Secure election platform processing 10,000+ votes
 - Real-time vote tallying and reporting
