@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Airene Fermo
 
-## 🚀 Senior Fullstack Developer
+## Fullstack Developer
 6+ years of experience building production web and mobile applications from concept to deployment.
 
 ## 💼 Professional Experience
-**Fullstack Developer** @ AYIT Solutions (2022-Present)
+**Fullstack Developer** @ A7IT Solutions (2022-Present)
 - Led end-to-end development of enterprise systems
 - Optimized database performance by 70% through query tuning and indexing
 - Built cross-platform mobile applications with Flutter
