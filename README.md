@@ -45,7 +45,7 @@
 ## 📂 Featured Projects
 ### [Voting Management System](https://github.com/aireneapresto2/voting-managament-system)
 **CodeIgniter, MySQL, JavaScript**
-- Secure election platform processing 10,000+ votes
+- Secure election platform
 - Real-time vote tallying and reporting
 - Reduced vote counting time from hours to minutes
 - Implemented database optimization for 70% faster reports
