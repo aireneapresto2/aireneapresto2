@@ -60,15 +60,13 @@
 
 ## 🎯 Currently Learning & Expanding
 - **Spring Boot & Microservices** architecture
-- **Advanced Docker & Kubernetes** for containerization
+- **Advanced Docker** for containerization
 - **System Design** patterns for scalable applications
 - **Java Best Practices** and enterprise patterns
 
 ## 📫 Let's Connect
 - **Email:** [aireneapresto2@gmail.com](mailto:aireneapresto2@gmail.com)
 - **Phone:** +63965-796-2483
-- **Location:** Tacurong City, Philippines
-- **Availability:** Immediately available for full-time opportunities
-
+- **Location:** Purok Rosal, New Isabela, Tacurong City, Philippines
 
 *"Building reliable systems that solve real problems, with a focus on performance, maintainability, and delivering business value."*
