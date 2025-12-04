@@ -67,8 +67,7 @@
 ## 📫 Let's Connect
 - **Email:** [aireneapresto2@gmail.com](mailto:aireneapresto2@gmail.com)
 - **Phone:** +63965-796-2483
-- **Location:** Tacurong City, Philippines (Open to onsite in Manila/Pasay)
-- **LinkedIn:** [Your LinkedIn Profile] *(Add if you have)*
+- **Location:** Tacurong City, Philippines
 - **Availability:** Immediately available for full-time opportunities
 
 
